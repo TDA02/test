@@ -1,0 +1,6 @@
+wrapper{
+	display: flex;
+	margin: 0 align;
+	max-width: 100rem;
+	justify-content: space-between;
+}
